@@ -27,3 +27,10 @@ Each product flavor implements the same app, using a different technology from [
 - Instant Apps
 - Auto
 - TV
+- Dagger 
+
+
+## OMDB API
+
+Search API: https://www.omdbapi.com/?t=<SEARCH_TERM>&apiKey=<API_KEY>&s=true
+Detail API: https://omdbapi.com/?i=<IMDB_ID>&apiKey=<API_KEY>
