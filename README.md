@@ -2,7 +2,7 @@
 
 Movie Mogul is an Android project which displays movies fetched from the [OMDB API](http://www.omdbapi.com/).
 
-Each module implements the same app, using a different technology from [Android Jetpack](https://developer.android.com/jetpack/).
+Each product flavor implements the same app, using a different technology from [Android Jetpack](https://developer.android.com/jetpack/).
 
 ## Modules
 - Databinding/ViewModel
